@@ -10,3 +10,7 @@ Abstract operations:- These are some seta of algorithms that is present in the e
 i.e- we developers cannot use these operations directly.
 
 */
+
+console.log(2-90); //-7
+console.log(2-null); //2
+console.log(2-undefined); //NaN
